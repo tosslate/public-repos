@@ -1,0 +1,9 @@
+.page {
+  flex: 1 1 auto;
+  min-width: 896px;
+  background-color: #fefefe;
+}
+
+.content {
+  min-height: calc(100vh - 8rem);
+}

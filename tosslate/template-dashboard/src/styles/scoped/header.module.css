@@ -1,0 +1,8 @@
+.search {
+  border-color: transparent;
+  background-color: var(--semi-color-primary-light-active);
+}
+
+.search input {
+  background-color: var(--semi-color-primary-light-active);
+}
