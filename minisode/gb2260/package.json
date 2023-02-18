@@ -1,0 +1,13 @@
+{
+  "name": "@minisode/gb2260",
+  "main": "dist/index.js",
+  "version": "1.0.5",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13",
+    "typescript": "^4.8.2"
+  }
+}
