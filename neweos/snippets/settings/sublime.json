@@ -1,0 +1,21 @@
+{
+  "font_face": "Monaco",
+  "font_size": 18,
+  "tab_size": 2,
+  "word_wrap": true,
+  "use_tab_stops": true,
+  "bold_folder_labels": true,
+  "detect_indentation": false,
+  "line_padding_top": 8,
+  "line_padding_bottom": 8,
+  "draw_white_space": "all",
+  "draw_indent_guides": true,
+  "translate_tabs_to_spaces": true,
+  "ensure_newline_at_eof_on_save": true,
+  "trim_trailing_white_space_on_save": true,
+  "folder_exclude_patterns": [
+    ".sass-cache",
+    ".bundle",
+    ".git"
+  ]
+}

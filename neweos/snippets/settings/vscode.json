@@ -1,0 +1,13 @@
+{
+  "editor.fontFamily": "JetBrainsMono",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "extensions.autoUpdate": false,
+  "breadcrumbs.enabled": false,
+  "window.zoomLevel": 2
+}
