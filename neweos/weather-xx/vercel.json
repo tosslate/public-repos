@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/api" },
+    { "source": "/air", "destination": "/api/air" },
+    { "source": "/search", "destination": "/api/search" }
+  ],
+  "redirects": [
+    {
+      "source": "/ipinfo",
+      "destination": "https://foundation.youdao.com/ip/ipinfo"
+    }
+  ]
+}

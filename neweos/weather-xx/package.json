@@ -1,0 +1,13 @@
+{
+  "name": "weather-xx",
+  "version": "1.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "@tossdev/weather": "^1.0.6",
+    "statuses": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/statuses": "^2.0.0",
+    "@vercel/node": "^2.5.6"
+  }
+}
